@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Face_Detection_CountFaces</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_search_manager">SearchManager</string>
+
+    <item name="id" format="integer" type="list">1</item>
+
+    <string name="title_activity_search__manager__grid_view">Search_Manager_GridView</string>
+    <string name="title_activity_grid_setter">GridSetter</string>
+    <string name="title_activity_full_image">FullImage</string>
+
+</resources>
